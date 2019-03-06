@@ -1,0 +1,14 @@
+C:\Users\David\source\repos\Homework1\Hw2-calculator\bin\Debug\Hw2-calculator.exe.config
+C:\Users\David\source\repos\Homework1\Hw2-calculator\bin\Debug\Hw2-calculator.exe
+C:\Users\David\source\repos\Homework1\Hw2-calculator\bin\Debug\Hw2-calculator.pdb
+C:\Users\David\source\repos\Homework1\Hw2-calculator\obj\Debug\Hw2-calculator.csprojAssemblyReference.cache
+C:\Users\David\source\repos\Homework1\Hw2-calculator\obj\Debug\Hw2-calculator.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Homework1\Hw2-calculator\obj\Debug\Hw2-calculator.exe
+C:\Users\David\source\repos\Homework1\Hw2-calculator\obj\Debug\Hw2-calculator.pdb
+C:\Homework1\Hw2-calculator\bin\Debug\Hw2-calculator.exe.config
+C:\Homework1\Hw2-calculator\bin\Debug\Hw2-calculator.exe
+C:\Homework1\Hw2-calculator\bin\Debug\Hw2-calculator.pdb
+C:\Homework1\Hw2-calculator\obj\Debug\Hw2-calculator.csprojAssemblyReference.cache
+C:\Homework1\Hw2-calculator\obj\Debug\Hw2-calculator.csproj.CoreCompileInputs.cache
+C:\Homework1\Hw2-calculator\obj\Debug\Hw2-calculator.exe
+C:\Homework1\Hw2-calculator\obj\Debug\Hw2-calculator.pdb
