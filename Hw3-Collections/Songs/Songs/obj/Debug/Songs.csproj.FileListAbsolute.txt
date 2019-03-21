@@ -1,0 +1,7 @@
+C:\Users\David\source\repos\Homework1\Hw3-Collections\Songs\Songs\bin\Debug\Songs.exe.config
+C:\Users\David\source\repos\Homework1\Hw3-Collections\Songs\Songs\bin\Debug\Songs.exe
+C:\Users\David\source\repos\Homework1\Hw3-Collections\Songs\Songs\bin\Debug\Songs.pdb
+C:\Users\David\source\repos\Homework1\Hw3-Collections\Songs\Songs\obj\Debug\Songs.csprojAssemblyReference.cache
+C:\Users\David\source\repos\Homework1\Hw3-Collections\Songs\Songs\obj\Debug\Songs.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Homework1\Hw3-Collections\Songs\Songs\obj\Debug\Songs.exe
+C:\Users\David\source\repos\Homework1\Hw3-Collections\Songs\Songs\obj\Debug\Songs.pdb
